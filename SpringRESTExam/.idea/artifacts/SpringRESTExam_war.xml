@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringRESTExam:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="devcolibri-rest.war">
+      <element id="artifact" artifact-name="SpringRESTExam:war exploded" />
+    </root>
+  </artifact>
+</component>
